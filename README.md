@@ -15,6 +15,4 @@
 - 🤔 **无法做？：学习中**                 
 
 ### Top Repositories👋
-<a href="https://github.com/GYLQ/CVE-2021-45232-RCE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GYLQ&repo=CVE-2021-45232-RCE&theme=buefy" />
-</a>
+
