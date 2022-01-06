@@ -12,9 +12,12 @@
 ### Some NEWS👋
 - 🌱 **正在做？：学习进修**
 - 🎧 **计划做？：漏洞框架利用**
-- 🤔 **无法做？：学习中**                 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GYLQ&theme=radical">
+- 🤔 **无法做？：学习中**                 
 
 ### Top Repositories👋
 <a href="https://github.com/GYLQ/CVE-2021-45232-RCE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GYLQ&repo=CVE-2021-45232-RCE&theme=buefy" />
 </a>
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GYLQ&theme=radical">
