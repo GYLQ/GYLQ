@@ -19,7 +19,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GYLQ&repo=CVE-2021-45232-RCE&theme=buefy" />
 </a>
 
-### Top Repositories👋
+### BOT Repositories👋
 <a href="https://github.com/GYLQ/wechat_bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GYLQ&repo=wechat_bot&theme=buefy" />
 </a>
