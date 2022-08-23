@@ -4,6 +4,7 @@
 
 ### Some INFO👋           
 - 🌱 **我是谁？：爱好安全人员**   
+- 🌱 **微信公众号：渗透安全团队**
 - 🎧 **正在学习：Python、挖洞**       <img align="right" src="https://github-readme-stats.vercel.app/api?username=GYLQ&show_icons=true&theme=radical">
 - 👯 **期望合作：知识交流与工具开发**  
 - 🤔 **寻求帮助：暂无**
