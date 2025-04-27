@@ -13,7 +13,7 @@
 - 🤔 **寻求帮助：暂无**
 - 🍔 **团队主页：https://www.starpoc.vip**
 - 🍔 **导航页面：https://www.starpoc.vip/nav**    
-- 🍔 **我的博客：https://gylq.gitee.io**          
+- 🍔 **我的博客：https://blog.starpoc.vip**          
 - 💬 **可以问我：Python或安全相关的，Maybe**
 ### Some NEWS👋
 - 🌱 **正在做？：学习进修**
